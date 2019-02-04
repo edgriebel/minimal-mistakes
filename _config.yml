@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Site Title 2019-02-04 08:42"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -86,7 +86,7 @@ facebook:
   app_id                 :
   publisher              :
 github:
-  edgriebel
+   username: edgriebel
   
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
