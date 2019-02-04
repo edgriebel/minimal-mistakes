@@ -85,6 +85,9 @@ facebook:
   username               :
   app_id                 :
   publisher              :
+github:
+  edgriebel
+  
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
